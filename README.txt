@@ -1,1 +1,1 @@
-website usig html css and javascript
+website using html css and javascript
